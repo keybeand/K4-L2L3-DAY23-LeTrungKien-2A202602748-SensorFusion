@@ -6,7 +6,7 @@
 
 - Họ tên: Lê Trung Kiên
 - MSSV: 2A202602748
-- Email: kien.letrung@vinuni.edu.vn
+- Email: 26ai.kienlt4@vinuni.edu.vn
 - Link repo (fork): https://github.com/keybeand/K4-L2L3-DAY23-LeTrungKien-2A202602748-SensorFusion
 - Commit hash nộp (`git rev-parse HEAD`):
 
